@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NitishPanda97
-- 👀 I’m interested in software engineering stuffs.
-- 🌱 I’m currently learning machine learning  
+- 👋 Hi, I’m Nitish Panda
+- 👀 Data Analyst
+- 🌱 SQL,PowerBI,Python
 - 📫 You can reach me on nitish.panda97@gmail.com
 
 <!---
